@@ -1,13 +1,9 @@
-## Equipment GPS
-
+## DHC Equipment GPS
 ### GPS Insight Data
 Data Context
 
 ```markdown
-
-
-
-	Content-Type: application/json
+Content-Type: application/json
 	{
   "head": {
     "account_id": 123456,
