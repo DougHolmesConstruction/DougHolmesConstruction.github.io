@@ -1,4 +1,4 @@
-## Doug Holmes Construction
+## Equipment GPS
 
 ### GPS Insight Data
 Data Context
@@ -8,7 +8,7 @@ Data Context
 
 
 	Content-Type: application/json
-Example POST Body	{
+	{
   "head": {
     "account_id": 123456,
     "username": "testusername",
